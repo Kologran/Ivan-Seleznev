@@ -1,2 +1,2 @@
-a = 'Hi Ivan Seleznev and'
+a = 'Hi Ivan Seleznev'
 print(a)
